@@ -475,8 +475,8 @@
   ;; IMPLEMENT ME:
 
 
-  {:T  1,
-   :F  0,
+  {:T  many-worlds,
+   :F  #{},
    :and intersection,
    :or  union,
    :not many-worlds-not})
